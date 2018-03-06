@@ -1,0 +1,3 @@
+mean_JS : 0.0472232313926
+success_match : 7
+miss_match : 0
